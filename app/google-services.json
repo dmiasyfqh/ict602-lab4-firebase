@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600422623778",
+    "project_id": "lab4---damia",
+    "storage_bucket": "lab4---damia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600422623778:android:1b3e6cf146787e7039f87b",
+        "android_client_info": {
+          "package_name": "com.example.lab4_damia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ExcxWKi_mzjkqclMUvopQDCP4vvgToo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
